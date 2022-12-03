@@ -1,2 +1,2 @@
 # TestCowsAndBulls
-This is my second Java project where I created a simple game "Bulls and cows".
+Мой второй учебный Java проект, в котором я ознакомился с исключениями, фреймворком Collections, классами-оболочками и многим другим.
